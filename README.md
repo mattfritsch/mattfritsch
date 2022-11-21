@@ -40,3 +40,6 @@ Etudiant en licence professionnelle de développement web et mobile pour le comm
 
 ## Activité
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mattfritsch)](https://github.com/mattfritsch/github-readme-stats)
+
+###Trophées
+[![trophy](https://github-profile-trophy.vercel.app/?username=mattfritsch&theme=onedark)](https://github.com/mattfritsch/github-profile-trophy)
