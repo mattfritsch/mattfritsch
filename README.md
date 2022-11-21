@@ -9,11 +9,11 @@
 
 - 🌱 Je suis entrain d'apprendre le framework **Flutter**
 
-- 👨‍💻 Voici le lien vers mon portfolio : [mattfritsch.github.io](https://mattfritsch.github.io)
+- 👨‍💻 Voici le lien vers mon portfolio : [ICI mon portfolio](https://mattfritsch.github.io)
 
 - 📫 Vous pouvez me contacter à cette adresse : **matthieu.fritsch06@gmail.com**
 
-- 📄 En apprendre plus sur moi : [mattfritsch.github.io/cv](https://mattfritsch.github.io/html/curriculum.html)
+- 📄 En apprendre plus sur moi : [ICI mon CV](https://mattfritsch.github.io/html/curriculum.html)
 
 <h3 align="left">Mes réseaux sociaux :</h3>
 <p align="left">
