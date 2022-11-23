@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mattfritsch&label=Profile%20views&color=0e75b6&style=flat" alt="mattfritsch" /> </p>
 
-- 🔭 Actuellement entrain de travailler sur un **site e-commerce de manga**
+- 🔭 Actuellement en train de travailler sur un **site e-commerce de manga**
 
 - 🌱 Je suis entrain d'apprendre le framework **Flutter**
 
