@@ -7,7 +7,7 @@
 
 - 🔭 Actuellement en train de travailler sur un **site e-commerce de manga**
 
-- 🌱 Je suis entrain d'apprendre le framework **Flutter**
+- 🌱 Je suis entrain d'apprendre le framework **Flutter**, et commencer à apprendre le **Magento**
 
 - 👨‍💻 Voici le lien vers mon portfolio : [ICI mon portfolio](https://mattfritsch.github.io)
 
