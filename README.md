@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mattfritsch&label=Profile%20views&color=0e75b6&style=flat" alt="mattfritsch" /> </p>
 
-- 🔭 Actuellement entrain de travailler sur un **site e-commerce de manga**
+- 🔭 Actuellement entrain de travailler sur un **CRUD en angularJS**
 
-- 🌱 Je suis entrain d'apprendre le framework **Flutter**, et commencer à apprendre le **Magento**
+- 🌱 Je suis entrain d'apprendre le framework **Flutter**, et commencer à apprendre le **Symfony**
 
 - 🎄 Je suis entrain de faire l'**Advent of code** : [ICI mon repo](https://github.com/mattfritsch/adventOfCode)
 
