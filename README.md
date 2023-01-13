@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mattfritsch&label=Profile%20views&color=0e75b6&style=flat" alt="mattfritsch" /> </p>
 
-- 🔭 Actuellement entrain de travailler sur un **CRUD en angularJS**
+- 🔭 Actuellement entrain de travailler mes cours de LPWMCE
 
 - 🌱 Je suis entrain d'apprendre le framework **Flutter**, et commencer à apprendre le **Symfony**
 
