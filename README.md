@@ -7,7 +7,7 @@
 
 - 🔭 Actuellement entrain de travailler mes cours de LPWMCE
 
-- 🌱 Je suis entrain d'apprendre le framework **Flutter**, et commencer à apprendre le **Symfony**
+- 🌱 Je suis entrain d'apprendre le framework **Flutter**, et **Symfony**
 
 - 🎄 Je suis entrain de faire l'**Advent of code** : [ICI mon repo](https://github.com/mattfritsch/adventOfCode)
 
