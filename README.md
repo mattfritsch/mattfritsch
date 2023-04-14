@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mattfritsch&label=Profile%20views&color=0e75b6&style=flat" alt="mattfritsch" /> </p>
 
-- 🔭 Actuellement entrain de travailler mes cours de LPWMCE
+- 🔭 Actuellement en stage chez Adimeo ! 
 
-- 🌱 Je suis entrain d'apprendre le framework **Flutter**, et **Symfony**
+- 🌱 Je suis entrain d'apprendre le framework **Symfony**
 
 - 🎄 Je suis entrain de faire l'**Advent of code** : [ICI mon repo](https://github.com/mattfritsch/adventOfCode)
 
