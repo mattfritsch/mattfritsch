@@ -1,7 +1,7 @@
 # Salut ! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 <h1 align="center">Je suis Matthieu FRITSCH</h1>
-<h3 align="center">Etudiant en licence professionnelle de développement web et mobile pour le commerce électronique</h3>
+<h3 align="center">Développeur Web PHP/Symfony chez Adimeo</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mattfritsch&label=Profile%20views&color=0e75b6&style=flat" alt="mattfritsch" /> </p>
 
