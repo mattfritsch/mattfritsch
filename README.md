@@ -7,8 +7,6 @@
 
 - 🌱 Je suis entrain d'apprendre le framework **Symfony**
 
-- 🎄 Je suis entrain de faire l'**Advent of code** : [ICI mon repo](https://github.com/mattfritsch/adventOfCode)
-
 - 👨‍💻 Voici le lien vers mon portfolio : [ICI mon portfolio](https://mattfritsch.github.io)
 
 - 📫 Vous pouvez me contacter à cette adresse : **matthieu.fritsch06@gmail.com**
