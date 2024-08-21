@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mattfritsch&label=Profile%20views&color=0e75b6&style=flat" alt="mattfritsch" /> </p>
 
-- 🌱 
+- 🌱 Je suis actuellement développeur junior chez Adimeo
 
 - 👨‍💻 Voici le lien vers mon portfolio : [ICI mon portfolio](https://mattfritsch.github.io)
 
